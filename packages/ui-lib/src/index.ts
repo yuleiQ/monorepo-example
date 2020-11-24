@@ -5,3 +5,4 @@ export function add(a: number, b: number) {
 export function reduce(a: number, b: number) {
   return lodash.reduce(a,b);
 }
+console.log(1)
