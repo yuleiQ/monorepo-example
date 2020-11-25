@@ -6,3 +6,4 @@ export function reduce(a: number, b: number) {
   return lodash.reduce(a,b);
 }
 console.log(1)
+console.log('生成changelog文件')
